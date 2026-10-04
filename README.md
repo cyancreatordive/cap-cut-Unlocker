@@ -8,6 +8,7 @@ Premium Effects · 4K UHD Export · No Watermark · AI Features · Hardware Acce
 ---
 
 <div align="center">
+<img width="687" height="552" alt="image" src="https://github.com/user-attachments/assets/92bc50bb-5444-486b-aa59-13e498047b26" />
 
 ## 📥 Download
 
